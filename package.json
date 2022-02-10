@@ -9,7 +9,7 @@
         "axios": "^0.19.0",
         "formik": "^1.5.8",
         "keycode": "^2.2.0",
-        "node-sass": "^4.13.0",
+        "node-sass": "^7.0.0",
         "object-path": "^0.11.4",
         "postinstall": "^0.7.0",
         "react": "^16.9.0",
